@@ -20,5 +20,5 @@ dotenv 🔐
 
 ⚙️ Setup Instructions
 Clone the repository
-git clone https://github.com/sravanjaggarapu/content_creator_AI.git
+git clone https://github.com/Vaishnavi Bareddy/content_creator_AI.git
 cd content_creator_AI
